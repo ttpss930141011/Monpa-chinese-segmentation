@@ -11,3 +11,6 @@ monpa-team :　MONPA 罔拍是一個提供正體中文斷詞、詞性標註以�
 更多使用方法請參閱
 
 https://github.com/monpa-team/monpa/blob/master/example/example_TextSegmentation_by_monpa.ipynb
+
+然後我自己寫的CKIP斷詞在這邊  
+https://github.com/ttpss930141011/CKIP-Chinese_Word_Segmentation
